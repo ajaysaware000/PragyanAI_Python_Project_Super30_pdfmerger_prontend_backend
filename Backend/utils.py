@@ -1,4 +1,3 @@
-```python
 import io
 from pypdf import PdfReader, PdfWriter
 
@@ -92,4 +91,3 @@ def get_file_size_mb(content: bytes):
     """
 
     return len(content) / (1024 * 1024)
-```
