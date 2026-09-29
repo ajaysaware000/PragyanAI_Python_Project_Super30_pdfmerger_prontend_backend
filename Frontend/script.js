@@ -13,7 +13,7 @@
 // After deploying backend to Render,
 // replace the URL below with your actual Render URL.
 
-const API_URL = "https://YOUR-RENDER-URL.onrender.com";
+const API_URL = "https://pragyanai-python-project-super30.onrender.com";
 
 
 // =====================================================
